@@ -6,11 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4DA6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Learning+Python+HTML+%26+CSS" />
 <img src="https://i.pinimg.com/1200x/a7/e0/12/a7e012ddac3800ef9bcd347b2f54e693.jpg" width="100%" height="220px" />
-<img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGFja21jN29pbmVyY3N1c2ZsZ3F6NDd0Z3M2cHNpZzExNmg3OGYwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ALu1Nuho2eXOyoGJ8u/giphy.webp" width="100%" height="220px"/>
-<img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmY0dHNnbGppYmtjcTJ1c3U2MzhkM3YwZzIyZDdxOXg3MWp0enJjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oMHPlvpTvnXGPS7GhX/200.webp" width="100%" height="220px"/>
-<img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnFsOHF4cDdpaXA4eHc2YnM3cmE5OXdpMWM3cDJ0NHM0anl4aWw1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/24652QfeZzNIPzoH36/giphy.webp" width="100%" height="220px"/>
-<img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGZzeTJidHZ3ZzhyaHk3eWE0eDN6OHpxMzZkaTd5dWloY2EwZW1sdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/200.webp" width="100%" height="220px"/>
-<br>
 
 <a href="https://www.linkedin.com/in/yasmin-luz-de-araujo-374baa336/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white"/>
