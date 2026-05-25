@@ -20,9 +20,9 @@
 
 <div align="center">
 
-#  Technologies
+# 🔥 Streak
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,vscode&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=YasminLuzdeAraujo&theme=radical&hide_border=true&background=0d1117"/>
 
 </div>
 
@@ -30,9 +30,9 @@
 
 <div align="center">
 
-# 🔥 Streak
+#  Technologies
 
-<img src="https://streak-stats.demolab.com?user=YasminLuzdeAraujo&theme=radical&hide_border=true&background=0d1117"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,git,vscode&theme=dark" />
 
 </div>
 
