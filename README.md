@@ -4,11 +4,11 @@
 
 ### Software Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Learning+Python;Learning+HTML+%26+CSS;Interested+in+AI+and+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Learning+Python;Learning+HTML+%26+CSS" />
 
 <br>
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/yasmin-luz-de-araujo-374baa336/?skipRedirect=true">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -34,9 +34,9 @@
 
 ## 📊 Stats
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YasminLuzdeAraujo&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLuzdeAraujo&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 ## 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YasminLuzdeAraujo&theme=radical&hide_border=true" />
 
 </div>
 
