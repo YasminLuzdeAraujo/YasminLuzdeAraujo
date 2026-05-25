@@ -32,9 +32,13 @@
 
 #  GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminLuzdeAraujo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLuzdeAraujo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminLuzdeAraujo&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLuzdeAraujo&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+
+</p>
 
 </div>
 
