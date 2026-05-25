@@ -1,60 +1,70 @@
-<h1 align="center">Hi, I'm Yasmin </h1>
-
-<p align="center">
-  Software Engineering Student • Learning Every Day
-</p>
-
----
-
-## About Me
-
- Software Engineering student  
- Currently learning Python, HTML and CSS  
- Interested in Artificial Intelligence and Automation  
- Advanced English
-
----
-
-## Technologies I'm Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
-</p>
-
----
-
-## Currently Studying
-
-- Python
-- HTML5
-- CSS3
-- Programming Logic
-- Software Development Fundamentals
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YasminLuzdeAraujo&show_icons=true&theme=tokyonight&hide_border=true"/>
+# Yasmin Luz
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLuzdeAraujo&layout=compact&theme=tokyonight&hide_border=true"/>
+### Software Engineering Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Learning+Python;Learning+HTML+%26+CSS;Interested+in+AI+and+Automation" />
+
+<br>
+
+<a href="SEU_LINK_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/SEUUSUARIO">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 </div>
 
 ---
 
-## Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasmin-luz-de-araujo-374baa336/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+## ⚡ Technologies
+
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+
+</div>
 
 ---
 
-<p align="center">
-  ✨ “Small progress every day leads to big results.” ✨
-</p>
+<div align="center">
+
+## 📊 Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Small progress every day leads to big results.” ✨
+
+</div>
+
