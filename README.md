@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE1aG9rcmJmcGZ2NDQ4d2tsMWZnajF0cnVkbnQ4MGw5bTQ4bmlubCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp" width="100%" height="220px"/> />
+<img src="https://i.pinimg.com/webp85/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.webp" width="100%" height="220px"/> />
 
 # Yasmin Luz de Araujo
 
