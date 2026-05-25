@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/webp85/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.webp" width="100%" height="220px"/> />
-
 # Yasmin Luz de Araujo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4DA6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Learning+Python+HTML+%26+CSS" />
@@ -13,6 +11,8 @@
 <a href="https://github.com/YasminLuzdeAraujo">
 <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<img src="https://i.pinimg.com/webp85/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.webp" width="100%" height="220px"/> 
 
 </div>
 
