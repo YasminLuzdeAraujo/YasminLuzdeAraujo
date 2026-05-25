@@ -5,7 +5,6 @@
 # Yasmin Luz de Araujo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4DA6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Learning+Python+HTML+%26+CSS" />
-<img src="https://i.pinimg.com/1200x/a7/e0/12/a7e012ddac3800ef9bcd347b2f54e693.jpg" width="100%" height="220px" />
 
 <a href="https://www.linkedin.com/in/yasmin-luz-de-araujo-374baa336/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white"/>
