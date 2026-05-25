@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yasmin Luz
+# Yasmin Luz de Araujo
 
 ### Software Engineering Student
 
