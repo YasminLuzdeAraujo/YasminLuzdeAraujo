@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://img.magnific.com/vetores-premium/desenvolvimento-da-web-codificacao-e-programacao-de-codigo-de-computador-de-banner-futuristico-no-laptop_3482-5582.jpg" width="100%" height="220px"/>
+<img src="https://i.pinimg.com/1200x/73/c5/b2/73c5b2afc684e0e6bc1b9469e5120b88.jpg" width="100%" height="220px"/>
 
 </div>
 
