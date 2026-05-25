@@ -73,3 +73,5 @@
 ###  Small progress every day leads to big results 
 
 </div>
+
+<img src="https://raw.githubusercontent.com/YasminLuzdeAraujo/YasminLuzdeAraujo/output/github-contribution-grid-snake-dark.svg"/>
