@@ -3,7 +3,6 @@
 # Yasmin Luz de Araujo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4DA6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Learning+Python+HTML+%26+CSS" />
-
 <br><br> 
 
 <a href="https://www.linkedin.com/in/yasmin-luz-de-araujo-374baa336/?skipRedirect=true">
